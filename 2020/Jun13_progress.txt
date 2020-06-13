@@ -1,0 +1,128 @@
+YSC2090261003	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261004	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261005	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261006	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261007	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261008	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261009	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261013	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261015	Case Rejected For Incorrect Fee And Form Not Signed
+YSC2090261019	Fees Were Waived
+YSC2090261020	Fees Were Waived
+YSC2090261021	Fees Were Waived
+YSC2090261022	Fees Were Waived
+YSC2090261023	Fees Were Waived
+YSC2090261024	Fees Were Waived
+YSC2090261025	Fees Were Waived
+YSC2090261026	Fees Were Waived
+YSC2090261027	Fees Were Waived
+YSC2090261028	Fees Were Waived
+YSC2090261029	Fees Were Waived
+YSC2090261030	Fees Were Waived
+YSC2090261031	Fees Were Waived
+YSC2090261041	Fees Were Waived
+YSC2090261056	Name Was Updated
+YSC2090261077	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261109	Case Was Rejected Because It Was Improperly Filed
+YSC2090261183	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261185	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261203	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261205	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261208	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261222	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261224	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261226	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261228	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261229	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261231	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261232	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261233	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261234	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261235	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261240	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261241	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261242	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261243	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261244	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261245	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261246	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261247	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261248	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261249	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261250	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261252	Case Was Rejected Because It Was Improperly Filed
+YSC2090261261	Case Was Rejected Because It Was Improperly Filed
+YSC2090261272	Fees Were Waived
+YSC2090261273	Fees Were Waived
+YSC2090261274	Fees Were Waived
+YSC2090261275	Fees Were Waived
+YSC2090261276	Fees Were Waived
+YSC2090261277	Fees Were Waived
+YSC2090261278	Fees Were Waived
+YSC2090261279	Fees Were Waived
+YSC2090261280	Fees Were Waived
+YSC2090261281	Fees Were Waived
+YSC2090261351	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261352	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261363	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261364	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261365	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261366	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261405	Fees Were Waived
+YSC2090261406	Fees Were Waived
+YSC2090261407	Fees Were Waived
+YSC2090261409	Fees Were Waived
+YSC2090261424	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261472	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261570	Form G-28 Was Rejected Because It Was Improperly Filed
+YSC2090261573	Case Was Transferred And A New Office Has Jurisdiction
+YSC2090261580	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261584	Fees Were Waived
+YSC2090261585	Fees Were Waived
+YSC2090261590	Fees Were Waived
+YSC2090261591	Fees Were Waived
+YSC2090261592	Fees Were Waived
+YSC2090261593	Fees Were Waived
+YSC2090261613	Case Was Updated To Show Fingerprints Were Taken
+YSC2090261616	Form G-28 Was Rejected Because It Was Improperly Filed
+YSC2090261628	Form G-28 Was Rejected Because It Was Improperly Filed
+YSC2090261643	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261644	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261645	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261646	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261647	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261685	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261686	Fees Were Waived
+YSC2090261688	Fees Were Waived
+YSC2090261695	Fees Were Waived
+YSC2090261696	Fees Were Waived
+YSC2090261697	Fees Were Waived
+YSC2090261712	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261713	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261714	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261715	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261716	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261717	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261718	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261719	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261723	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261724	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261725	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261726	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261727	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261728	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261729	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261730	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261731	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261732	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261733	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261734	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261735	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261736	Case Rejected Because I Sent An Incorrect Fee
+YSC2090261752	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261753	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261754	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261755	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261756	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090261864	Expedite Request Approved
+##127

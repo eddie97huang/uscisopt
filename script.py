@@ -1,12 +1,13 @@
 import requests
 import time
 
+year = "2020"
 currTime = time.time()
 prevTime = time.time() - 86400
 
-currFileName = time.strftime("%b%d", time.localtime(currTime)) + ".txt"
-progressFileName = time.strftime("%b%d", time.localtime(currTime)) + "_progress.txt"
-prevFileName = time.strftime("%b%d", time.localtime(prevTime)) + ".txt"
+currFileName = year + "/" + time.strftime("%b%d", time.localtime(currTime)) + ".txt"
+progressFileName = year + "/" + time.strftime("%b%d", time.localtime(currTime)) + "_progress.txt"
+prevFileName = year + "/" + time.strftime("%b%d", time.localtime(prevTime)) + ".txt"
 
 URL='https://egov.uscis.gov/casestatus/mycasestatus.do'
 statusPattern = '<strong>Your Current Status:</strong>'
@@ -23,9 +24,9 @@ with open(prevFileName, 'r') as prevFile, open(currFileName, 'w') as currFile, o
     session = requests.session()
     r = requests.post(URL, data=payload)
 
-    start = r.content.find(statusPattern) + len(statusPattern)
-    end = r.content.find('<', start)
-    status = r.content[start:end].strip()
+    start = r.text.find(statusPattern) + len(statusPattern)
+    end = r.text.find('<', start)
+    status = r.text[start:end].strip()
 
     if "Received" in status:
       currCount = currCount + 1
