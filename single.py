@@ -24,6 +24,8 @@ def pretty_print(s: str, width = 80):
         print(' ' + token, end='')
   print()
 
+if len(sys.argv) <= 1:
+  sys.exit("python3 single.py [receipt numbers start with YSC]")
 print("-" * 80)
 for arg in sys.argv[1:]:
   receipt = searcher.match(arg)

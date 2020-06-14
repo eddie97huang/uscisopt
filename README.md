@@ -3,7 +3,7 @@
 ```bash
 mkdir [YEAR]
 python3 init.py > [YEAR]/[YESTEDAY_DATE].txt
-python3 script.py
+python3 script.py [YEAR]
 ```
 run it daily
 
