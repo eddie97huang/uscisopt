@@ -27,8 +27,12 @@ with open(prevFileName, 'r') as prevFile, open(currFileName, 'w') as currFile, o
     start = r.text.find(statusPattern) + len(statusPattern)
     end = r.text.find('<', start)
     status = r.text[start:end].strip()
+    start = r.text.find(status, end)
+    start = r.text.find('<p>', start) + 3
+    end = r.text.find('</p>', start)
+    full_text = r.text[start:end].strip()
 
-    if "Received" in status:
+    if ("Received" in status) and ("I-765" in full_text):
       currCount = currCount + 1
       currFile.write(payload['appReceiptNum'] + '\n')
     else:

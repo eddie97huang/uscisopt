@@ -1,0 +1,25 @@
+YSC2090200868	Fingerprint Fee Was Received
+YSC2090201868	Case Was Approved
+YSC2090202868	Case Was Approved
+YSC2090203868	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090204868	Case Was Approved
+YSC2090205868	Fees Were Waived
+YSC2090206868	Case Was Approved
+YSC2090209868	Fingerprint Fee Was Received
+YSC2090211868	Fees Were Waived
+YSC2090212868	Fingerprint Fee Was Received
+YSC2090213868	Case Was Approved
+YSC2090214868	Case Was Updated To Show Fingerprints Were Taken
+YSC2090215868	Fees Were Waived
+YSC2090218868	Fees Were Waived
+YSC2090221868	Case Rejected Because I Sent An Incorrect Fee
+YSC2090224868	Fees Were Waived
+YSC2090227868	Case Was Received
+YSC2090232868	Fingerprint Fee Was Received
+YSC2090234868	Expedite Request Denied
+YSC2090235868	Fees Were Waived
+YSC2090237868	Case Was Rejected Because It Was Improperly Filed
+YSC2090240868	Expedite Request Denied
+YSC2090241868	Case Was Rejected Because It Was Improperly Filed
+YSC2090257868	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+##24

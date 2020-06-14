@@ -1,0 +1,171 @@
+YSC2090262066	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262067	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262114	Fees Were Waived
+YSC2090262142	Form G-28 Was Rejected Because It Was Improperly Filed
+YSC2090262150	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090262151	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090262152	Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted
+YSC2090262153	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262154	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262156	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262175	Form G-28 Was Rejected Because It Was Improperly Filed
+YSC2090262177	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262178	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262245	Case Rejected For Incorrect Fee, Payment Not Signed And Incorrect Form Version
+YSC2090262246	Case Rejected For Incorrect Fee, Payment Not Signed And Incorrect Form Version
+YSC2090262247	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262248	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262249	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262250	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262265	Fees Were Waived
+YSC2090262271	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262272	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262273	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262274	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262275	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262276	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262277	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262278	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262279	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262280	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262281	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262282	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262283	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262289	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262290	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262291	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262292	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262293	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262294	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262295	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262296	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262297	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262298	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262299	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262300	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262301	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262302	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262303	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262304	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262305	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262306	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262310	Fees Were Waived
+YSC2090262311	Fees Were Waived
+YSC2090262312	Fees Were Waived
+YSC2090262313	Fees Were Waived
+YSC2090262314	Fees Were Waived
+YSC2090262315	Fees Were Waived
+YSC2090262316	Fees Were Waived
+YSC2090262317	Fees Were Waived
+YSC2090262318	Fees Were Waived
+YSC2090262319	Fees Were Waived
+YSC2090262320	Fees Were Waived
+YSC2090262321	Fees Were Waived
+YSC2090262322	Fees Were Waived
+YSC2090262323	Fees Were Waived
+YSC2090262324	Fees Were Waived
+YSC2090262325	Fees Were Waived
+YSC2090262328	Fees Were Waived
+YSC2090262329	Fees Were Waived
+YSC2090262330	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262331	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262332	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262333	Case Was Rejected Because It Was Improperly Filed
+YSC2090262346	Form G-28 Was Rejected Because It Was Improperly Filed
+YSC2090262353	Fees Were Waived
+YSC2090262355	Fees Were Waived
+YSC2090262356	Fees Were Waived
+YSC2090262357	Fees Were Waived
+YSC2090262358	Fees Were Waived
+YSC2090262359	Fees Were Waived
+YSC2090262360	Fees Were Waived
+YSC2090262361	Fees Were Waived
+YSC2090262362	Fees Were Waived
+YSC2090262363	Fees Were Waived
+YSC2090262364	Fees Were Waived
+YSC2090262365	Fees Were Waived
+YSC2090262366	Fees Were Waived
+YSC2090262367	Fees Were Waived
+YSC2090262368	Fees Were Waived
+YSC2090262369	Fees Were Waived
+YSC2090262370	Fees Were Waived
+YSC2090262371	Fees Were Waived
+YSC2090262372	Fees Were Waived
+YSC2090262373	Fees Were Waived
+YSC2090262374	Fees Were Waived
+YSC2090262375	Fees Were Waived
+YSC2090262376	Fees Were Waived
+YSC2090262377	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262378	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262379	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262380	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262381	Case Was Rejected Because It Was Improperly Filed
+YSC2090262382	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262383	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262384	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262385	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262386	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262387	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262388	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262389	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262390	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262391	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262392	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262393	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262394	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262395	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262396	Case Was Rejected Because It Was Improperly Filed
+YSC2090262397	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262398	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262399	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262400	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262401	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262402	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262403	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262404	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262409	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262410	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262411	Fees Were Waived
+YSC2090262412	Fees Were Waived
+YSC2090262413	Fees Were Waived
+YSC2090262414	Form G-28 Was Rejected Because It Was Improperly Filed
+YSC2090262415	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262416	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262417	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262418	Case Rejected Because I Sent An Incorrect Fee
+YSC2090262419	Fees Were Waived
+YSC2090262420	Fees Were Waived
+YSC2090262421	Fees Were Waived
+YSC2090262422	Fees Were Waived
+YSC2090262423	Fees Were Waived
+YSC2090262424	Fees Were Waived
+YSC2090262425	Fees Were Waived
+YSC2090262426	Fees Were Waived
+YSC2090262427	Fees Were Waived
+YSC2090262429	Fees Were Waived
+YSC2090262430	Fees Were Waived
+YSC2090262431	Fees Were Waived
+YSC2090262432	Fees Were Waived
+YSC2090262433	Fees Were Waived
+YSC2090262434	Fees Were Waived
+YSC2090262435	Fees Were Waived
+YSC2090262436	Fees Were Waived
+YSC2090262437	Fees Were Waived
+YSC2090262438	Fees Were Waived
+YSC2090262439	Fees Were Waived
+YSC2090262440	Fees Were Waived
+YSC2090262441	Fees Were Waived
+YSC2090262442	Fees Were Waived
+YSC2090262443	Fees Were Waived
+YSC2090262444	Fees Were Waived
+YSC2090262445	Fees Were Waived
+YSC2090262447	Fees Were Waived
+YSC2090262449	Fees Were Waived
+YSC2090262451	Fees Were Waived
+YSC2090262453	Fees Were Waived
+YSC2090262454	Fees Were Waived
+YSC2090262455	Fees Were Waived
+YSC2090262457	Fees Were Waived
+YSC2090262458	Fees Were Waived
+YSC2090262459	Fees Were Waived
+##170
