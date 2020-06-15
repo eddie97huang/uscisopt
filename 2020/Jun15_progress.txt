@@ -1,0 +1,274 @@
+YSC2090261010	Fingerprint Fee Was Received
+YSC2090261011	Fingerprint Fee Was Received
+YSC2090261012	Fingerprint Fee Was Received
+YSC2090261034	Fingerprint Fee Was Received
+YSC2090261040	Case Was Received
+YSC2090261054	Fingerprint Fee Was Received
+YSC2090261073	Fingerprint Fee Was Received
+YSC2090261074	Fingerprint Fee Was Received
+YSC2090261075	Fingerprint Fee Was Received
+YSC2090261156	Case Was Received
+YSC2090261164	Case Was Received
+YSC2090261165	Case Was Received
+YSC2090261184	Case Was Received
+YSC2090261186	Case Was Received
+YSC2090261199	Case Was Received
+YSC2090261223	Case Was Received
+YSC2090261225	Case Was Received
+YSC2090261227	Case Was Received
+YSC2090261230	Case Was Received
+YSC2090261237	Fingerprint Fee Was Received
+YSC2090261238	Fingerprint Fee Was Received
+YSC2090261239	Fingerprint Fee Was Received
+YSC2090261251	Case Was Received
+YSC2090261253	Case Was Received
+YSC2090261254	Case Was Received
+YSC2090261255	Case Was Received
+YSC2090261256	Case Was Received
+YSC2090261282	Fingerprint Fee Was Received
+YSC2090261283	Case Was Received
+YSC2090261284	Case Was Received
+YSC2090261285	Case Was Received
+YSC2090261286	Case Was Received
+YSC2090261287	Case Was Received
+YSC2090261288	Case Was Received
+YSC2090261289	Case Was Received
+YSC2090261290	Case Was Received
+YSC2090261291	Case Was Received
+YSC2090261292	Case Was Received
+YSC2090261293	Case Was Received
+YSC2090261294	Case Was Received
+YSC2090261295	Case Was Received
+YSC2090261296	Case Was Received
+YSC2090261297	Case Was Received
+YSC2090261313	Case Was Received
+YSC2090261314	Case Was Received
+YSC2090261315	Case Was Received
+YSC2090261316	Case Was Received
+YSC2090261317	Case Was Received
+YSC2090261318	Case Was Received
+YSC2090261319	Case Was Received
+YSC2090261320	Case Was Received
+YSC2090261321	Case Was Received
+YSC2090261322	Case Was Received
+YSC2090261323	Case Was Received
+YSC2090261324	Case Was Received
+YSC2090261325	Case Was Received
+YSC2090261326	Case Was Received
+YSC2090261327	Case Was Received
+YSC2090261328	Case Was Received
+YSC2090261329	Case Was Received
+YSC2090261330	Case Was Received
+YSC2090261331	Case Was Received
+YSC2090261332	Case Was Received
+YSC2090261333	Case Was Received
+YSC2090261334	Case Was Received
+YSC2090261335	Case Was Received
+YSC2090261350	Fingerprint Fee Was Received
+YSC2090261354	Case Was Received
+YSC2090261355	Case Was Received
+YSC2090261356	Case Was Received
+YSC2090261357	Case Was Received
+YSC2090261358	Case Was Received
+YSC2090261359	Case Was Received
+YSC2090261360	Case Was Received
+YSC2090261367	Case Was Received
+YSC2090261368	Case Was Received
+YSC2090261369	Case Was Received
+YSC2090261370	Case Was Received
+YSC2090261371	Case Was Received
+YSC2090261372	Case Was Received
+YSC2090261373	Case Was Received
+YSC2090261374	Case Was Received
+YSC2090261377	Case Was Received
+YSC2090261378	Case Was Received
+YSC2090261379	Case Was Received
+YSC2090261380	Case Was Received
+YSC2090261396	Case Was Received
+YSC2090261397	Case Was Received
+YSC2090261398	Fingerprint Fee Was Received
+YSC2090261399	Case Was Received
+YSC2090261400	Case Was Received
+YSC2090261401	Case Was Received
+YSC2090261402	Case Was Received
+YSC2090261403	Case Was Received
+YSC2090261404	Case Was Received
+YSC2090261448	Case Was Received
+YSC2090261460	Case Was Received
+YSC2090261461	Case Was Received
+YSC2090261462	Case Was Received
+YSC2090261466	Case Was Received
+YSC2090261467	Case Was Received
+YSC2090261468	Case Was Received
+YSC2090261469	Case Was Received
+YSC2090261470	Case Was Received
+YSC2090261471	Case Was Received
+YSC2090261475	Case Was Received
+YSC2090261476	Case Was Received
+YSC2090261477	Fingerprint Fee Was Received
+YSC2090261478	Fingerprint Fee Was Received
+YSC2090261479	Fingerprint Fee Was Received
+YSC2090261480	Fingerprint Fee Was Received
+YSC2090261484	Case Was Received
+YSC2090261485	Case Was Received
+YSC2090261486	Case Was Received
+YSC2090261487	Case Was Received
+YSC2090261488	Case Was Received
+YSC2090261489	Case Was Received
+YSC2090261490	Case Was Received
+YSC2090261491	Case Was Received
+YSC2090261492	Case Was Received
+YSC2090261493	Case Was Received
+YSC2090261494	Case Was Received
+YSC2090261495	Case Was Received
+YSC2090261496	Case Was Received
+YSC2090261497	Case Was Received
+YSC2090261498	Case Was Received
+YSC2090261499	Case Was Received
+YSC2090261500	Case Was Received
+YSC2090261501	Case Was Received
+YSC2090261502	Case Was Received
+YSC2090261503	Case Was Received
+YSC2090261526	Case Was Received
+YSC2090261527	Case Was Received
+YSC2090261528	Case Was Received
+YSC2090261529	Case Was Received
+YSC2090261530	Case Was Received
+YSC2090261531	Case Was Received
+YSC2090261532	Case Was Received
+YSC2090261533	Case Was Received
+YSC2090261534	Case Was Received
+YSC2090261535	Case Was Received
+YSC2090261536	Case Was Received
+YSC2090261537	Case Was Received
+YSC2090261538	Case Was Received
+YSC2090261539	Case Was Received
+YSC2090261540	Case Was Received
+YSC2090261541	Case Was Received
+YSC2090261542	Case Was Received
+YSC2090261543	Case Was Received
+YSC2090261544	Case Was Received
+YSC2090261545	Case Was Received
+YSC2090261546	Case Was Received
+YSC2090261547	Case Was Received
+YSC2090261548	Case Was Received
+YSC2090261549	Case Was Received
+YSC2090261550	Case Was Received
+YSC2090261551	Case Was Received
+YSC2090261552	Case Was Received
+YSC2090261553	Case Was Received
+YSC2090261554	Case Was Received
+YSC2090261555	Case Was Received
+YSC2090261556	Case Was Received
+YSC2090261563	Case Was Received
+YSC2090261568	Case Was Received
+YSC2090261569	Case Was Received
+YSC2090261571	Case Was Received
+YSC2090261572	Fingerprint Fee Was Received
+YSC2090261574	Case Was Received
+YSC2090261575	Case Was Received
+YSC2090261576	Case Was Received
+YSC2090261577	Case Was Received
+YSC2090261578	Case Was Received
+YSC2090261579	Case Was Received
+YSC2090261581	Fingerprint Fee Was Received
+YSC2090261582	Fingerprint Fee Was Received
+YSC2090261583	Fingerprint Fee Was Received
+YSC2090261588	Case Was Received
+YSC2090261589	Case Was Received
+YSC2090261611	Fingerprint Fee Was Received
+YSC2090261612	Fingerprint Fee Was Received
+YSC2090261614	Case Was Received
+YSC2090261640	Fingerprint Fee Was Received
+YSC2090261641	Fingerprint Fee Was Received
+YSC2090261642	Fingerprint Fee Was Received
+YSC2090261651	Case Was Received
+YSC2090261656	Fingerprint Fee Was Received
+YSC2090261657	Fingerprint Fee Was Received
+YSC2090261658	Fingerprint Fee Was Received
+YSC2090261659	Fingerprint Fee Was Received
+YSC2090261667	Fingerprint Fee Was Received
+YSC2090261668	Case Was Received
+YSC2090261669	Case Was Received
+YSC2090261737	Fingerprint Fee Was Received
+YSC2090261738	Fingerprint Fee Was Received
+YSC2090261739	Fingerprint Fee Was Received
+YSC2090261740	Fingerprint Fee Was Received
+YSC2090261741	Fingerprint Fee Was Received
+YSC2090261742	Fingerprint Fee Was Received
+YSC2090261751	Fingerprint Fee Was Received
+YSC2090261817	Fingerprint Fee Was Received
+YSC2090261866	Case Was Received
+YSC2090261867	Case Was Received
+YSC2090261870	Fingerprint Fee Was Received
+YSC2090261871	Case Was Received
+YSC2090261946	Fingerprint Fee Was Received
+YSC2090261947	Fingerprint Fee Was Received
+YSC2090261955	Fingerprint Fee Was Received
+YSC2090261995	Fingerprint Fee Was Received
+YSC2090262017	Fingerprint Fee Was Received
+YSC2090262018	Fingerprint Fee Was Received
+YSC2090262019	Fingerprint Fee Was Received
+YSC2090262023	Case Was Received
+YSC2090262038	Fingerprint Fee Was Received
+YSC2090262039	Fingerprint Fee Was Received
+YSC2090262040	Fingerprint Fee Was Received
+YSC2090262041	Fingerprint Fee Was Received
+YSC2090262063	Fingerprint Fee Was Received
+YSC2090262064	Fingerprint Fee Was Received
+YSC2090262065	Case Was Received
+YSC2090262070	Case Was Received
+YSC2090262071	Case Was Received
+YSC2090262072	Case Was Received
+YSC2090262147	Case Was Received
+YSC2090262148	Case Was Received
+YSC2090262243	Fingerprint Fee Was Received
+YSC2090262244	Fingerprint Fee Was Received
+YSC2090262251	Fingerprint Fee Was Received
+YSC2090262259	Fingerprint Fee Was Received
+YSC2090262260	Fingerprint Fee Was Received
+YSC2090262261	Case Was Received
+YSC2090262262	Case Was Received
+YSC2090262263	Fingerprint Fee Was Received
+YSC2090262264	Fingerprint Fee Was Received
+YSC2090262267	Case Was Received
+YSC2090262268	Case Was Received
+YSC2090262269	Case Was Received
+YSC2090262270	Case Was Received
+YSC2090262284	Fingerprint Fee Was Received
+YSC2090262285	Fingerprint Fee Was Received
+YSC2090262286	Fingerprint Fee Was Received
+YSC2090262288	Fingerprint Fee Was Received
+YSC2090262307	Fingerprint Fee Was Received
+YSC2090262308	Fingerprint Fee Was Received
+YSC2090262309	Fingerprint Fee Was Received
+YSC2090262326	Fingerprint Fee Was Received
+YSC2090262335	Fingerprint Fee Was Received
+YSC2090262337	Fingerprint Fee Was Received
+YSC2090262338	Fingerprint Fee Was Received
+YSC2090262339	Fingerprint Fee Was Received
+YSC2090262340	Fingerprint Fee Was Received
+YSC2090262341	Fingerprint Fee Was Received
+YSC2090262342	Fingerprint Fee Was Received
+YSC2090262343	Fingerprint Fee Was Received
+YSC2090262344	Fingerprint Fee Was Received
+YSC2090262345	Fingerprint Fee Was Received
+YSC2090262347	Fingerprint Fee Was Received
+YSC2090262348	Fingerprint Fee Was Received
+YSC2090262349	Fingerprint Fee Was Received
+YSC2090262350	Fingerprint Fee Was Received
+YSC2090262351	Fingerprint Fee Was Received
+YSC2090262405	Fingerprint Fee Was Received
+YSC2090262406	Fingerprint Fee Was Received
+YSC2090262407	Fingerprint Fee Was Received
+YSC2090262408	Fingerprint Fee Was Received
+YSC2090262448	Fingerprint Fee Was Received
+YSC2090262452	Fingerprint Fee Was Received
+YSC2090262460	Fingerprint Fee Was Received
+YSC2090262461	Fingerprint Fee Was Received
+YSC2090262462	Fingerprint Fee Was Received
+YSC2090262465	Fingerprint Fee Was Received
+YSC2090262466	Fingerprint Fee Was Received
+YSC2090262467	Fingerprint Fee Was Received
+YSC2090262468	Fingerprint Fee Was Received
+##273
