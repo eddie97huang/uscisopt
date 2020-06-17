@@ -1,6 +1,7 @@
 import requests
 import time
 import sys
+import os.path
 
 year = sys.argv[1] if len(sys.argv) > 1 else "2020"
 currTime = time.time()
@@ -9,6 +10,14 @@ prevTime = time.time() - 86400
 currFileName = year + "/" + time.strftime("%b%d", time.localtime(currTime)) + ".txt"
 progressFileName = year + "/" + time.strftime("%b%d", time.localtime(currTime)) + "_progress.txt"
 prevFileName = year + "/" + time.strftime("%b%d", time.localtime(prevTime)) + ".txt"
+count = 0
+while (not os.path.exists(prevFileName)) and count < 100:
+  prevTime -=86400
+  prevFileName = year + "/" + time.strftime("%b%d", time.localtime(prevTime)) + ".txt"
+  count += 1
+
+if count is 100:
+  sys.exit("no file found for the past 100 days. You sure you created a baseline file?")
 
 URL='https://egov.uscis.gov/casestatus/mycasestatus.do'
 statusPattern = '<strong>Your Current Status:</strong>'
