@@ -1,0 +1,46 @@
+YSC2090261050	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261052	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261053	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261090	Case Was Approved
+YSC2090261099	New Card Is Being Produced
+YSC2090261384	Expedite Request Denied
+YSC2090261449	Expedite Request Denied
+YSC2090261451	New Card Is Being Produced
+YSC2090261506	New Card Is Being Produced
+YSC2090261705	New Card Is Being Produced
+YSC2090261784	New Card Is Being Produced
+YSC2090261789	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261821	New Card Is Being Produced
+YSC2090261863	New Card Is Being Produced
+YSC2090261891	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261907	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090261927	New Card Is Being Produced
+YSC2090261936	Name Was Updated
+YSC2090261960	Case Was Approved
+YSC2090261969	Case Was Approved
+YSC2090261975	Case Was Approved
+YSC2090261982	Case Was Approved
+YSC2090261990	New Card Is Being Produced
+YSC2090262010	Case Was Approved
+YSC2090262042	Case Was Approved
+YSC2090262046	Case Was Approved
+YSC2090262049	New Card Is Being Produced
+YSC2090262058	Case Was Approved
+YSC2090262095	Case Was Approved
+YSC2090262115	Case Was Approved
+YSC2090262124	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090262149	Case Was Approved
+YSC2090262165	Case Was Approved
+YSC2090262170	Case Was Approved
+YSC2090262172	Case Was Approved
+YSC2090262193	Case Was Approved
+YSC2090262214	Case Was Approved
+YSC2090262327	Case Was Approved
+YSC2090261701	New Card Is Being Produced
+YSC2090261854	Name Was Updated
+YSC2090261963	Case Was Approved
+YSC2090262057	Case Was Approved
+YSC2090262159	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC2090262215	Case Was Approved
+YSC2090262222	Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+##45
