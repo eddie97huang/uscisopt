@@ -1,0 +1,52 @@
+YSC2090261049	New Card Is Being Produced
+YSC2090261112	New Card Is Being Produced
+YSC2090261115	New Card Is Being Produced
+YSC2090261118	New Card Is Being Produced
+YSC2090261140	New Card Is Being Produced
+YSC2090261144	New Card Is Being Produced
+YSC2090261148	New Card Is Being Produced
+YSC2090261170	New Card Is Being Produced
+YSC2090261173	New Card Is Being Produced
+YSC2090261196	Case Was Denied
+YSC2090261383	New Card Is Being Produced
+YSC2090261386	New Card Is Being Produced
+YSC2090261422	New Card Is Being Produced
+YSC2090261438	New Card Is Being Produced
+YSC2090261509	New Card Is Being Produced
+YSC2090261511	New Card Is Being Produced
+YSC2090261514	New Card Is Being Produced
+YSC2090261517	New Card Is Being Produced
+YSC2090261520	New Card Is Being Produced
+YSC2090261524	New Card Is Being Produced
+YSC2090261606	New Card Is Being Produced
+YSC2090261625	New Card Is Being Produced
+YSC2090261661	New Card Is Being Produced
+YSC2090261662	Case Was Approved
+YSC2090261664	Case Was Approved
+YSC2090261759	Case Was Approved
+YSC2090261837	New Card Is Being Produced
+YSC2090261838	Case Was Approved
+YSC2090261846	New Card Is Being Produced
+YSC2090261872	Case Was Approved
+YSC2090261876	Case Was Approved
+YSC2090261937	Case Was Approved
+YSC2090261943	New Card Is Being Produced
+YSC2090261945	New Card Is Being Produced
+YSC2090261952	New Card Is Being Produced
+YSC2090261954	Case Was Approved
+YSC2090262082	New Card Is Being Produced
+YSC2090262204	Case Was Approved
+YSC2090262207	New Card Is Being Produced
+YSC2090262230	New Card Is Being Produced
+YSC2090262234	New Card Is Being Produced
+YSC2090262239	Case Was Approved
+YSC2090262240	New Card Is Being Produced
+YSC2090262242	Case Was Approved
+YSC2090262334	New Card Is Being Produced
+YSC2090262463	Case Was Approved
+YSC2090262477	Case Was Approved
+YSC2090261167	New Card Is Being Produced
+YSC2090261421	New Card Is Being Produced
+YSC2090261892	Case Was Approved
+YSC2090262028	New Card Is Being Produced
+##51
